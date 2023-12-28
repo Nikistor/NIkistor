@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-I am a beginner programmer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I am a beginner programmer. I am a student of Bauman Moscow State Technical University, studying to be a programmer.
+I am a beginner programmer. I am a beginner programmer. I am a student of Bauman Moscow State Technical University, studying to be a programmer.
 
 ---
 
